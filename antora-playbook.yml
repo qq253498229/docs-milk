@@ -1,5 +1,5 @@
 site:
-  title: docs-milk
+  title: 银河奶牛
   start_page: docs-milk::index.adoc
 content:
   sources:
