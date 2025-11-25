@@ -9,3 +9,4 @@
 ** link:https://yiweilongzxa.github.io/nwipluginwebsitecollection/[插件整理,window=_blank]
 ** link:https://papiyas.chat/[人才市场,window=_blank]
 ** link:https://xiaorr.github.io/MilkWayBulletin/[利润快报,window=_blank]
+** link:https://milkonomy.pages.dev/#/dashboard[利润推算,window=_blank]
