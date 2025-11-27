@@ -1,5 +1,6 @@
 * xref:铁牛计划.adoc[]
 * xref:铁牛装备.adoc[]
+* xref:铁牛吃喝.adoc[]
 * xref:技能.adoc[]
 * xref:护符.adoc[]
 * xref:地下城钥匙.adoc[]
